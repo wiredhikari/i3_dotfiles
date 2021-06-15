@@ -12,7 +12,7 @@ I would recommend you to refer to Arch Wiki incase you have any errors.
 
 4]Kitty is floated by deafult in case you have a busy desktop and Alacritty(default terminal) is not floated ,so you can use them in your own covinience.
 
-5]Mod+D for running GUI based softwares. Mod+Shift+D to view all installed softwares.
+5]Mod+D for viewing GUI based softwares. Mod+Shift+D to view all installed softwares.(via rofi)
 
 6]Some softwares fallback to a specific workspace.You can modify it any way you want.
 
