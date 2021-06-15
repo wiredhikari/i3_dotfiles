@@ -20,3 +20,21 @@ I would recommend you to refer to Arch Wiki incase you have any errors.
 
 Please Read https://i3wm.org/docs/userguide.html to feel the power of i3.
 
+
+To-Do
+
+Overviews of:
+
+Alacritty,Kitty
+
+Picom
+
+Polybar
+
+Firefox
+
+Scripts of:
+
+Switching between Different Rices
+
+Youtube-dl alias to download via terminal.
