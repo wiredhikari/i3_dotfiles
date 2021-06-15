@@ -2,6 +2,9 @@
 
 ## Some ScreenShots.
 ![Screenshot 1](./Screenshots/ss1.png)
+![Screenshot 2](./Screenshots/ss2.png)
+![Screenshot 3](./Screenshots/ss3.png)
+![Screenshot 4](./Screenshots/ss4.png)
 
 ## Features of i3 config file.
 
