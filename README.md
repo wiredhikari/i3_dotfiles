@@ -1,5 +1,9 @@
 # i3_dotfiles
-Features of i3 config file.
+
+## Some ScreenShots.
+![Screenshot 1](./Screenshots/ss1.png)
+
+## Features of i3 config file.
 
 1. On switching detween different workspaces you can have a wallpaper of your choice ,just change the path after (exec feh --bg-fill /path/to/your/wallpaper
 Not only wallpaper but also you can add your own custom rices while changing between workspaces.
