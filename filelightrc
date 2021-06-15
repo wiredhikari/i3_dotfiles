@@ -1,0 +1,31 @@
+[filelight_part]
+antialias=true
+contrast=100
+minFontPitch=18
+scanAcrossMounts=false
+scanRemoteMounts=false
+scheme=0
+showSmallFiles=true
+skipList[$e]=/dev/,/proc/,/sys/,/root/
+varyLabelFontSizes=true
+
+[general]
+File1[$e]=/
+File2[$e]=/
+File3[$e]=/usr/share/0ad/data/
+File4[$e]=/usr/share/0ad/data/mods/
+File5[$e]=/usr/share/0ad/data/mods/public/
+Name1[$e]=
+Name2[$e]=
+Name3[$e]=
+Name4[$e]=
+Name5[$e]=
+comboHistory[$e]=$HOME/
+
+[window]
+State=AAAA/wAAAAD9AAAAAAAAA7UAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAIM/////wAAAAAAAAAAAAAAFgB2AGkAZQB3AFQAbwBvAGwAQgBhAHIBAAACv/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP1 Height 1920x1080=1012
+eDP1 Width 1920x1080=949
+eDP1 XPosition 1920x1080=962
+eDP1 YPosition 1920x1080=59
