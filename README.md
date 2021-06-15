@@ -14,9 +14,9 @@ I would recommend you to refer to Arch Wiki incase you have any errors.
 
 5]Mod+D for running GUI based softwares. Mod+Shift+D to view all installed softwares.
 
-7]Some softwares fallback to a specific workspace.You can modify it any way you want.
+6]Some softwares fallback to a specific workspace.You can modify it any way you want.
 
-6]I dont like weird shortcuts to execute stuff, so the config file has most of the default shortcuts given by i3wm by default , The custom shortcuts I made are pretty easy to get along with.Do give it a try!
+7]I dont like weird shortcuts to execute stuff, so the config file has most of the default shortcuts given by i3wm by default , The custom shortcuts I made are pretty easy to get along with.Do give it a try!
 
 Please Read https://i3wm.org/docs/userguide.html to feel the power of i3.
 
