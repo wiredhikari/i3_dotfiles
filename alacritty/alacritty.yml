@@ -1,0 +1,58 @@
+window:
+  padding:
+    x: 4
+    y: 4
+key_bindings:
+  - key: V
+    mods: Alt|Shift
+    action: Paste
+  - key: C
+    mods: Alt|Shift
+    action: Copy
+font:
+  normal:
+    family: Roboto Mono
+    style: Regular
+  size: 8
+scrolling:
+  history: 10000
+draw_bold_text_with_bright_colors: true
+colors:
+  name: Pulp
+  author: ""
+  primary:
+    background: "#000000"
+    foreground: "#ffffff"
+  cursor:
+    text: "#000000"
+    cursor: "#ffffff"
+  normal:
+    black: "#86817e"
+    red: "#d75756"
+    green: "#688c7d"
+    yellow: "#ffb365"
+    blue: "#68778c"
+    magenta: "#fdb3b2"
+    cyan: "#86abd9"
+    white: "#f7f8f2"
+  bright:
+    black: "#86817e"
+    red: "#a63a3a"
+    green: "#688c7d"
+    yellow: "#ffb365"
+    blue: "#68778c"
+    magenta: "#8c686a"
+    cyan: "#86abd9"
+    white: "#f7f8f2"
+background_opacity: 1
+selection:
+  save_to_clipboard: false
+live_config_reload: true
+ig_reload: true
+oad: true
+_config_reload: true
+yellow: "#8b7653"
+blue: "#556b79"
+magenta: "#6e4962"
+cyan: "#5c8482"
+white: "#828282"
